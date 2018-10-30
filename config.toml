@@ -1,8 +1,8 @@
-baseurl = "https://jimmysong.io/"
+baseurl = "https://www.felixwang.io/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 languageCode = "zh"
-title = "Jimmy Song"
+title = "Felix Wang"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = false
@@ -10,67 +10,52 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-hello = "Hi,I'm Jimmy"
-subtitle = "I can help you to build Cloud Native confidence"
-logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
-favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
-share_img = "https://ws4.sinaimg.cn/large/006tKfTcly1ft1oje0atgj31kw1kzk1j.jpg"
+hello = "Hi,I'm Felix"
+subtitle = "a new developer"
+logo = "https://res.cloudinary.com/dfynefyys/image/upload/v1539523433/personal%20website/logo/logoko.png"
+favicon = "https://res.cloudinary.com/dfynefyys/image/upload/v1539523433/personal%20website/logo/logoko.png"
+share_img = "https://res.cloudinary.com/dfynefyys/image/upload/v1539619299/personal%20website/bigimg/%E4%B8%AA%E4%BA%BA%E5%9B%BE%E7%89%87.jpg"
 dateFormat = "January 2, 2006"
 commit = false
 rss = true
-baiduKey = "11f7d254cfa4e0ca44b175c66d379ecc"
+baiduKey = "06304fbb932f882f56d5ef0dba136201"
 #comments = false
 #sharebutton = true
 algolia = "d2134c5a8d250e6d3246594240c45201" # API key
 #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-description = "宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io"
-errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
+description = "王呈飞的博客|a new developer|felixwang.io"
+errorpage = "https://res.cloudinary.com/dfynefyys/image/upload/v1540917312/personal%20website/bigimg/%E5%BE%AE%E4%BF%A1%E5%8F%B7_%E5%89%AF%E6%9C%AC.jpg"
+
 
 [[Params.bigimg]]
-src = "https://ws2.sinaimg.cn/large/0069RVTdly1fuoclagh35j318g0iz1kx.jpg"
-desc = "Service Mesh Meetup Shenzhen - Aug 25, 2018"
+src = "https://res.cloudinary.com/dfynefyys/image/upload/v1539619803/personal%20website/bigimg/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E5%9B%BE1.jpg"
+desc = ""
 
 [[Params.bigimg]]
-src = "https://ws3.sinaimg.cn/large/0069RVTdly1fu5luiuruvj31kw0kukjw.jpg"
-desc = "Service Mesh Meetup Beijing - Jul 29, 2018"
+src = "https://res.cloudinary.com/dfynefyys/image/upload/v1539619813/personal%20website/bigimg/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E5%9B%BE2.jpg"
+desc = ""
 
 [[Params.bigimg]]
-src = "https://ws3.sinaimg.cn/large/006tNc79gy1ftifwoqziaj31in0pbqav.jpg"
-desc = "I ❤️  #Kubernetes - Jul 21, 2018"
+src = "https://res.cloudinary.com/dfynefyys/image/upload/v1539619817/personal%20website/bigimg/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E5%9B%BE3.gif"
+desc = ""
 
 [[Params.bigimg]]
-src = "https://ws2.sinaimg.cn/large/006tKfTcly1ft1mp16tllj31b00loe82.jpg"
-desc = "Service Mesh Meetup Hangzhou - Jun 30, 2018"
-
-#[[Params.bigimg]]
-#src = "https://ws1.sinaimg.cn/large/00704eQkly1fs1gtlybnzj32ke0osu0z.jpg"
-#desc = "KEUC - China Kubernetes End User Conference 2017"
-
-[[Params.bigimg]]
-src = "https://ws1.sinaimg.cn/large/00704eQkly1fs1gsumgt0j31kq0j4qv5.jpg"
-desc = "Kubernetes Meetup Beijing - Aug 28, 2017"
-
-#[[Params.bigimg]]
-#src = "https://ws1.sinaimg.cn/large/00704eQkgy1fs1gv1sjguj31hc0u0qv6.jpg"
-#desc = "Insight throught the Great Wall to the world"
-
-[[Params.bigimg]]
-src = "https://ws1.sinaimg.cn/large/00704eQkly1fs1gwrkdp4j33070xgnpe.jpg"
-desc = "Istio Meetup in Beijing GDG"
+src = "https://res.cloudinary.com/dfynefyys/image/upload/v1539619826/personal%20website/bigimg/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E5%9B%BE4.jpg"
+desc = ""
 
 [Author]
-  name = "Jimmy Song(宋净超)"
-  website = "https://jimmysong.io"
-  #email = "jimmysong@jimmysong.io"
-  facebook = "jimmysongio"
+  name = "Felix Wang(王呈飞)"
+  website = "http://www.felixwang.io"
+  #email = "wcfgg@foxmail.com"
+  #facebook = "felixwang"
   #googleplus = "+jimmysong" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "rootsongjc"
-  twitter = "jimmysongio"
-  linkedin = "jimmysongio"
-  #500px = "jimmysongio"
-  #medium = "jimmysongio"
-  #instagram = "jimmysongio"
-  weibo = "jimmysongio"
+  github = "sougg"
+  #twitter = "felixwang"
+  linkedin = "wangchengfei"
+  #500px = "felixwang"
+  #medium = "felixwang"
+  #instagram = "felixwang"
+  weibo = "掏炭的男人"
 
 [[menu.main]]
     identifier = "Categories"
@@ -79,26 +64,26 @@ desc = "Istio Meetup in Beijing GDG"
 
 [[menu.main]]
     parent = "Categories"
-    name = "kubernetes"
-    url = "categories/kubernetes"
+    name = "statistics"
+    url = "categories/statistics"
     weight = 1
 
 [[menu.main]]
     parent = "Categories"
-    name = "Cloud Native"
-    url = "categories/cloud-native"
+    name = "java"
+    url = "categories/java"
     weight = 2
 
 [[menu.main]]
     parent = "Categories"
-    name = "Microservices"
-    url = "categories/microservices"
+    name = "capriccio"
+    url = "categories/capriccio"
     weight = 3
 
 [[menu.main]]
     parent = "Categories"
-    name = "Devops"
-    url = "categories/devops"
+    name = "notes"
+    url = "categories/notes"
     weight = 4
 
 [[menu.main]]
@@ -107,23 +92,6 @@ desc = "Istio Meetup in Beijing GDG"
     url = "categories/github"
     weight = 5
 
-[[menu.main]]
-    parent = "Categories"
-    name = "Serverless"
-    url = "categories/serverless"
-    weight = 6
-
-[[menu.main]]
-    parent = "Categories"
-    name = "Service Mesh"
-    url = "categories/service-mesh"
-    weight = 7
-
-[[menu.main]]
-    parent = "Categories"
-    name = "Tags"
-    url = "tags"
-    weight = 8
 
 [[menu.main]]
     identifier = "Gitbooks"
@@ -161,29 +129,6 @@ desc = "Istio Meetup in Beijing GDG"
     weight = 5
 
 [[menu.main]]
-    identifier = "Publications"
-    name = "Publications"
-    weight = 3
-
-[[menu.main]]
-    parent = "Publications"
-    name = "Cloud Native Go"
-    url = "posts/cloud-native-go"
-    weight = 1
-
-[[menu.main]]
-    parent = "Publications"
-    name = "Cloud Native Python"
-    url = "posts/cloud-native-python"
-    weight = 2
-
-[[menu.main]]
-    parent = "Publications"
-    name = "Cloud Native Java"
-    url = "posts/cloud-native-java"
-    weight = 3
-
-[[menu.main]]
     identifier = "Projects"
     name = "Projects"
     weight = 4
@@ -219,7 +164,7 @@ desc = "Istio Meetup in Beijing GDG"
     weight = 5
 
 
-[[menu.main]]
-    name = "About"
-    url = "about"
-    weight = 5
+#[[menu.main]]
+#    name = "About"
+#    url = "about"
+#    weight = 5
