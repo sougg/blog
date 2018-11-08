@@ -92,6 +92,12 @@ desc = ""
     url = "categories/github"
     weight = 5
 
+[[menu.main]]
+    parent = "Categories"
+    name = "Tags"
+    url = "tags"
+    weight = 6
+
 
 [[menu.main]]
     identifier = "Gitbooks"
