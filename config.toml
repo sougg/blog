@@ -94,7 +94,7 @@ desc = ""
 
 [[menu.main]]
     parent = "Categories"
-    name = "Github"
+    name = "math&algorithm"
     url = "categories/math&algorithm"
     weight = 6
 
