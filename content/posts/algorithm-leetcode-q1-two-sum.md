@@ -2,7 +2,7 @@
 title: "leetcode系列#1 Two Sum"
 date: 2019-03-28T01:43:20+08:00
 draft: false
-categories: "algorithm"
+categories: "math&algorithm"
 tags: ["algorithm","leetcode","hashmap"]
 description: "这是一个新的系列，主要记录一些自己在leetcode上的刷题记录，个人水平有限，难度先从easy开始"
 bigimg: [{src: "https://res.cloudinary.com/dfynefyys/image/upload/v1553708995/personal%20website/leetcode/1-two-sum.png", desc: "Nanjing China|Mar 28,2019"}]
