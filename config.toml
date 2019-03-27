@@ -94,7 +94,7 @@ desc = ""
 
 [[menu.main]]
     parent = "Categories"
-    name = "math&algorithm"
+    name = "algorithm"
     url = "categories/math&algorithm"
     weight = 6
 
