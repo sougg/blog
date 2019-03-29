@@ -1,5 +1,5 @@
 ---
-title: "leetcode系列#1 Two Sum"
+title: "leetcode系列1 #1 Two Sum"
 date: 2019-03-28T01:43:20+08:00
 draft: false
 categories: "algorithm"
