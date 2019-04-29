@@ -1,6 +1,6 @@
 ---
 title: "leetcode系列3 q9 Palindrome Number"
-date: 2019-04-30T02:25:20+08:00
+date: 2019-04-29T17:25:20+08:00
 draft: false
 categories: "algorithm"
 tags: ["algorithm","leetcode","palindrome","revert"]
