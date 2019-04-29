@@ -1,5 +1,5 @@
 ---
-title: "leetcode系列2 q9 Palindrome Number"
+title: "leetcode系列3 q9 Palindrome Number"
 date: 2019-04-30T02:25:20+08:00
 draft: false
 categories: "algorithm"
@@ -25,11 +25,13 @@ Example 1:
 
 Input: 121
 Output: true
+
 Example 2:
 
 Input: -121
 Output: false
 Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+
 Example 3:
 
 Input: 10
