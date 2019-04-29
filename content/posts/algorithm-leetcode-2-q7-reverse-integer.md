@@ -1,5 +1,5 @@
 ---
-title: "leetcode系列2 #7 Reverse Integer"
+title: "leetcode系列2 q7 Reverse Integer"
 date: 2019-03-30T02:25:20+08:00
 draft: false
 categories: "algorithm"
